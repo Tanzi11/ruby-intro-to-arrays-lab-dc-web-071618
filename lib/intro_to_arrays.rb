@@ -7,6 +7,5 @@ def array_with_two_elements
 @my_two_array = array_with_two_elements
 end 
 def first_element (my_first_element)
-my_first_element = 
-return "Welcome to New York"
+my_first_element = "Welcome to New York"
 end
